@@ -1,2 +1,2 @@
 # CatholicNavigation
-rCoss style navigation with Sass and ESnext
+Cross style navigation with Sass and ESnext
